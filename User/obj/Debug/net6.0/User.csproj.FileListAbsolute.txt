@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\bin\Debug\net6.0\User.deps.json
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\bin\Debug\net6.0\User.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\bin\Debug\net6.0\User.pdb
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\refint\User.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\User.pdb
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\User\obj\Debug\net6.0\ref\User.dll

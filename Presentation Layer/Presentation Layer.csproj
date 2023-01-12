@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Presentation_Layer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business Logic Layer\Business Logic Layer.csproj" />
+    <ProjectReference Include="..\Cash Deposit And Withdrawal BO\Cash Deposit And Withdrawal BO.csproj" />
+    <ProjectReference Include="..\Cash Transfer BO\Cash Transfer BO.csproj" />
+    <ProjectReference Include="..\Customer_BusinessObject\Customer_BusinessObject.csproj" />
+    <ProjectReference Include="..\User\User.csproj" />
+  </ItemGroup>
+
+</Project>

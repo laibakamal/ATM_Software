@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\bin\Debug\net6.0\Customer_BusinessObject.deps.json
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\bin\Debug\net6.0\Customer_BusinessObject.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\bin\Debug\net6.0\Customer_BusinessObject.pdb
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\bin\Debug\net6.0\User.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\bin\Debug\net6.0\User.pdb
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.AssemblyInfo.cs
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.csproj.CopyComplete
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\refint\Customer_BusinessObject.dll
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\Customer_BusinessObject.pdb
+C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\Customer_BusinessObject\obj\Debug\net6.0\ref\Customer_BusinessObject.dll

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EAD_assignment1_ATM_Software_N_Tier_Architecture
+build_property.ProjectDir = C:\Users\User\source\repos\EAD_assignment1_ATM-Software_N-Tier-Architecture\EAD_assignment1_ATM-Software_N-Tier-Architecture\
